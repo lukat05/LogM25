@@ -25,4 +25,6 @@ jupyter notebook --allow-root
 This will give you a link to insert into a browser and fromthere use Jupyter Notebook. Upload these files into this notebook, and then in
 order to run them, ensure that you are using a Sage kernel specifically, as a standard Python Kernel will not allow it to run.
 
+We mainly just played around with examples to learn more aboutthis class of objects (Ornamentation Lattices), but the most common tree that we used would be the tree Broom of height 2 with two leaves. Regardless, any rooted tree should work with this, but be warned that the more complex the tree is, the less likely your code will be efiicient due to the nature of these objects!
+
 Once you have done all of that, have fun with the code!
